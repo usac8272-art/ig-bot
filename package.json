@@ -1,0 +1,7 @@
+{
+  "name": "ig-bot",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "express": "^4.19.2"
+  }
+}
